@@ -12,5 +12,6 @@ public class StringTests {
 		for (int i = 0; i < dest.length; i++){
 			System.out.println(dest[i]);
 		}
+		
 	}
 }
